@@ -99,7 +99,7 @@ Majority/random are computed on the same dev split with the official scorer.
   `max_length=64` (no accuracy cost, large speedup); `train_deberta.py`
   keeps the starter-kit default of 256.
 
-## Citation
+## References
 
 The data is released with the below paper.
 
